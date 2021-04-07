@@ -12,3 +12,4 @@
 - git: {local-name: roswasm_suite, uri: 'https://github.com/nilsbore/roswasm_suite.git', version: master}
 - git: {local-name: lolo_webgui, uri: 'https://github.com/smarc-project/lolo_webgui.git', version: master}
 - git: {local-name: sam_webgui, uri: 'https://github.com/smarc-project/sam_webgui.git', version: master}
+- git: {local-name: smarc_controllers, uri: 'https://github.com/smarc-project/smarc_controllers.git', version: noetic-devel}
