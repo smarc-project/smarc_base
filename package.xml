@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>smarc_base</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>The smarc_base package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
@@ -73,6 +73,7 @@
   <exec_depend>tf_lat_lon</exec_depend>
   <exec_depend>tf_convenience_topics</exec_depend>
   <exec_depend>sam_basic_controllers</exec_depend>
+  <exec_depend>sam_dead_reckoning</exec_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
