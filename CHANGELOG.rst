@@ -2,8 +2,8 @@
 Changelog for package smarc_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2022-04-05)
+------------------
 * Update package.xml
 * Update package.xml
 * Update package.xml
